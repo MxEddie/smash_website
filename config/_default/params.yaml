@@ -6,9 +6,9 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,28 +20,25 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: smash@mlist.is.ed.ac.uk
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Informatics Forum 3.12
+  city: Edinburgh
+  postcode: EH8 9AB
+  country: Scotland
+  country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '55.94484706919222'
+  longitude: '-3.1873141883566665'
 contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+  - icon: youtube
+    icon_pack: fab
+    name: Youtube Channel 
+    link: 'https://www.youtube.com/channel/UCFvM-91PuJvPkiZb_tT-Rgg'
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter 
+    link: 'https://twitter.com/SMASH_Edin'
 
 # Site header
 
@@ -81,6 +78,7 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 plugins_js: []
+plugins_scss: ["custom"]
 avatar:
   gravatar: false
   shape: circle
@@ -112,10 +110,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
+#map:
+#  provider: '1'
+#  api_key: 'AIzaSyCvh_b9g6QNiqMZ8dhgAbuZhA_mX2cRHy4'
+#  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
