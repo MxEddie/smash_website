@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alexandar Robertson
+title: Alexander Robertson
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Phd Student

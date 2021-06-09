@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 
+title: Our People
 subtitle:
 
 content:
@@ -22,11 +22,11 @@ content:
 design:
   show_interests: false
   show_role: true
-  show_social: true
+  show_social: false
 advanced:
-  css_style: text-align="left"
+  css_style: 
 ---
 
-<h1 align='left'> Our People </h1>
-<cta cta_text="Meet the whole team" cta_link="people" style="align:left">
+<div style="display: flex; justify-content: center;">
+<a style="display: block; height: 50px; width: 200px; background: #011F41; color: #ffffff; text-align: center; font-weight: bold; font-size:12pt; line-height: 50px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="/people">Meet the Whole Team</a></div>
 
