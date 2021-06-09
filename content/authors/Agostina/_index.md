@@ -1,25 +1,23 @@
 ---
 # Display name
-title: Eddie Ungless
+title: Agostina Calabrese
 
 # Is this the primary user of the site?
 superuser: True 
 
 # Role/position
-role: they/them, Phd Student
+role: she/her, Phd Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Ediburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Intersectional identity theory
-- Predictive bias
-- Algorithmic justice 
+- LOREM IPSUM
 
 #
 #education:
@@ -58,7 +56,7 @@ social:
 #   link: files/cv.pdf
 - icon: external-link-alt
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Eddie-Ungless-3
+  link: https://ago3.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

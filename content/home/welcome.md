@@ -12,9 +12,11 @@ hero_media: avatar.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  spacing:
+    padding: ["1em", "0", "0", "0"]
 cta:
-  url: 'contact'
-  label: Say Hello
+  url: '/publication'
+  label: See Our Work
 advanced:
   css_style: 
   css_class: 

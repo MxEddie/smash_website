@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Eddie Ungless
+title: Björn Ross 
 
 # Is this the primary user of the site?
-superuser: True 
+superuser: false 
 
 # Role/position
-role: they/them, Phd Student
+role: he/him, Lecturer  
 
 # Organizations/Affiliations
 organizations:
 - name: University of Ediburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Intersectional identity theory
-- Predictive bias
-- Algorithmic justice 
+- Computational social science
+- Information systems
+- Social media analytics and communication
 
 #
 #education:
@@ -50,15 +50,18 @@ social:
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: https://abeeraldayel.github.io/index.html
+#  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+#- icon: website
+#  icon_pack: fas
+#  link: 
 - icon: external-link-alt
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Eddie-Ungless-3
+  link: https://sweb.inf.ed.ac.uk/bross3/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Principal Investigators
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

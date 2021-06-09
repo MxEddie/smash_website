@@ -8,10 +8,10 @@
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
 
-<div class="row justify-content-center people-widget">
+<div class="row justify-content-center people-widget" style="max-height: min-content;">
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
-    <h1 align="left">{{ . | markdownify | emojify }}</h1>
+    <h1 align="center">{{ . | markdownify | emojify }}</h1>
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
@@ -21,7 +21,7 @@
 
   {{if $query | and (gt (len $page.Params.content.user_groups) 1) }}
   <div class="col-md-12">
-    <h2 class="mb-4">{{ . | markdownify }}</h2>
+    <h2 class="mb-4" style="font-size: 16pt;">{{ . | markdownify }}</h2>
   </div>
   {{end}}
 

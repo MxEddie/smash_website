@@ -18,15 +18,17 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Grad Students
 design:
   show_interests: false
   show_role: true
-  show_social: false
+  show_social: false 
+  columns: "1"
+  spacing:
+    padding: ["2em" , "0" , "2em" , "0" ]
 advanced:
   css_style: 
 ---
 
 <div style="display: flex; justify-content: center;">
-<a style="display: block; height: 50px; width: 200px; background: #011F41; color: #ffffff; text-align: center; font-weight: bold; font-size:12pt; line-height: 50px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="/people">Meet the Whole Team</a></div>
+<a style="display: block; height: 50px; width: 170px; background: #011F41; color: #ffffff; text-align: center; font-weight: bold; font-size:12pt; line-height: 50px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="/people">Meet the Team</a></div>
 
