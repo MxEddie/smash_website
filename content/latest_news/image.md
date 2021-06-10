@@ -24,6 +24,7 @@ design:
     image_position: center
     image_size: contain
     text_color_light: true
+    color: white  
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:

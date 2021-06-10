@@ -23,7 +23,7 @@ advanced:
 
 ---
 
-{{<figure src="logo_whole.jpeg">}} <h1> SMASH </h1>
+{{<figure theme="light" src="logo_whole.png">}} <h1> SMASH </h1>
 
 <h2 style="font-size:16pt"> Social Media Analysis and Support for Humanity </h2> 
 

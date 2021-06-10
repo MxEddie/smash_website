@@ -75,4 +75,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. In my research, I primarily use computational methods from agent-based modelling, natural language processing and social network analysis to study social media and related technologies. A key focus of my research is to explore different aspects of social media, such as misinformation, hate speech, and the malicious use of automation (bots), as well as how social media can be used effectively for social good, such as in crisis communication. I also examine issues with these methods, from data collection practices to research data management.
+
+At Edinburgh, I am a co-director of the SMASH group. Before working here, I was a postdoctoral researcher at the University of Duisburg-Essen, where I also completed my PhD. I am a member of the Association for Information Systems and an Associate Editor of Business & Information Systems Engineering.

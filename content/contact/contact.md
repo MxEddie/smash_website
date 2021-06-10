@@ -20,7 +20,4 @@ design:
 
 <h1 align="left"> Contact us </h1>
 
-<p align="center" style="max-width:1000px; text-align:justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.</p>
-
-
-<p align="left"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.272942301129!2d-3.1897160841895134!3d55.944641084647365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78447fcdee1%3A0x8088a5bea544af3!2sSchool%20of%20Informatics%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1623081267690!5m2!1sen!2suk" width="1000" height="300" style="border:0" allowfullscreen="True" loading="lazy"></iframe></p>
+<p align="left" style="max-width:1300px; text-align:justify">Please reach out on the email below, conntect with us on twitter or check out our youtube channel. If you're local, we're based in the Informatics building. </p> <p style="float:right"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.272942301129!2d-3.1897160841895134!3d55.944641084647365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78447fcdee1%3A0x8088a5bea544af3!2sSchool%20of%20Informatics%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1623081267690!5m2!1sen!2suk" width="800" height="300" style="border:0" allowfullscreen="True" loading="lazy"></iframe></p>
