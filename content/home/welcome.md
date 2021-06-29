@@ -15,7 +15,7 @@ design:
   spacing:
     padding: ["1em", "0", "0", "0"]
 cta:
-  url: '/publication'
+  url: '/latest_news'
   label: See Our Work
 advanced:
   css_style: 

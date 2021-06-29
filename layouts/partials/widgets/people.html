@@ -8,7 +8,7 @@
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
 
-<div class="row justify-content-center people-widget" style="max-height: min-content;">
+<div class="row justify-content-center people-widget" style="max-height: min-content">
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     <h1 align="center">{{ . | markdownify | emojify }}</h1>

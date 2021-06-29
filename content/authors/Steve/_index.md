@@ -71,6 +71,9 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- All 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+<div class="media-container"><iframe src="https://www.uwp.is.ed.ac.uk/uwp-widgets/v4/pure/embed.php?u=52e2246d-221c-40bc-b1f7-bc7b75f196a8&v=4&p=0&pl=5&al=0&h=0&c=11" frameborder="0" width="100%" height="720" class="pureframe"></iframe></div>

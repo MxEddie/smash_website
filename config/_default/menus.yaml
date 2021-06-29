@@ -12,7 +12,20 @@ main:
     weight: 50
   - name: Resources
     url: resources
-    weight: 55
+    identifier: potato
+    weight: 51
+  - name: Mazjak
+    url: resources/#newmazajak
+    parent: potato
+    weight: 52
+  - name: Urban Dictionary 
+    url: resources/#newurbandictionary
+    parent: potato
+    weight: 52
+  - name: Stance Tutorial
+    url: resources/#newstance
+    parent: potato
+    weight: 57
   - name: Contact
     url: contact
     weight: 60
