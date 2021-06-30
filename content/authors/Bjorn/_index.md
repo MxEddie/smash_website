@@ -6,7 +6,7 @@ title: Björn Ross
 superuser: false 
 
 # Role/position
-role: he/him, Lecturer  
+role: Lecturer  
 
 # Organizations/Affiliations
 organizations:
@@ -15,11 +15,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: he/him 
 
 interests:
 - Computational social science
 - Information systems
-- Social media analytics and communication
+- Social media 
 
 #
 #education:

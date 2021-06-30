@@ -6,7 +6,7 @@ title: Eddie Ungless
 superuser: True 
 
 # Role/position
-role: they/them, Phd Student
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
@@ -15,6 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: they/them, he/him
+
 
 interests:
 - Intersectional identity theory
@@ -73,4 +75,4 @@ user_groups:
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student entering my second year of study. My focus is on how to detect a wide range of nuanced and intersecting predictive biases in NLP tools, and how to communicate such bias to model developers, model users and others affected by the tools. 

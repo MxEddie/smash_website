@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JulieAnne Meaney
+title: Julie-Anne Meaney
 
 # Is this the primary user of the site?
 superuser: True 
@@ -15,9 +15,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: she/her 
 
 interests:
-- LOREM IPSUM 
+- Computational Humor
+- NLP
+- Social Science
+
 
 #
 #education:
@@ -43,9 +47,9 @@ social:
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=aFIieq0AAAAJ&hl=en&oi=sra
 #- icon: github
 #  icon_pack: fab
 #  link: 

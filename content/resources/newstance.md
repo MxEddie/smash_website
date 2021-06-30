@@ -26,10 +26,10 @@ Associate professor at the School of Informatics, the University of Edinburgh, a
 
 
 ## **Slides**
-* [part1:What is Stance Detection?](http://smash.inf.ed.ac.uk/papers/files/Part1.pdf)
-* [part2_phase1:Stance Detection Modeling](http://smash.inf.ed.ac.uk/papers/files/Part2_phase1.pdf)
-* [part2_phase2: Stance Detection Methods](http://smash.inf.ed.ac.uk/papers/files/Part2_phase2.pdf)
-* [part3: Stance detection applications](http://smash.inf.ed.ac.uk/papers/files/Part3.pdf)
+* [part1:What is Stance Detection?](http://smash.inf.ed.ac.uk/files/Part1.pdf)
+* [part2_phase1:Stance Detection Modeling](http://smash.inf.ed.ac.uk/files/Part2_phase1.pdf)
+* [part2_phase2: Stance Detection Methods](http://smash.inf.ed.ac.uk/files/Part2_phase2.pdf)
+* [part3: Stance detection applications](http://smash.inf.ed.ac.uk/files/Part3.pdf)
 
 ## **Other materials**
 * [Stance Detection Survey paper](https://arxiv.org/abs/2006.03644)

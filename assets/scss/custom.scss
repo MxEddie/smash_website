@@ -19,8 +19,11 @@ h3{
 }
 
 p{
-    font-size: 14pt;
+    font-size: 12pt;
     line-height: 2em;
+}
+ul{
+    font-size: 12pt;
 }
 
 
@@ -43,3 +46,11 @@ section#welcome figure{
 section#image{
     background-color: transparent;
 }
+
+.column {
+    display: flex;
+    float: left;
+    width: 20%;
+    padding: 2px;
+    align-items: center;
+  }

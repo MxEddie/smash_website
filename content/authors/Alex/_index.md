@@ -17,7 +17,9 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
+- Language variation
+- Social media
+- Data science 
 
 #
 #education:
@@ -54,6 +56,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://homepages.inf.ed.ac.uk/s1202948/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

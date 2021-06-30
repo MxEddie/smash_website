@@ -15,9 +15,11 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: he/him/his 
 
 interests:
-- LOREM IPSUM 
+- Natural language processing
+- Computational social science
 
 #
 #education:
@@ -74,6 +76,7 @@ user_groups:
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I research how we can develop and use Natural Language Processing (NLP) tools to learn things about people based on what they write in various settings. I've used computational methods to study how language use is related to things like personal values, everyday activities, optimism, mental health, cultural background, and city size. While most of my work can be categorized as using NLP tools to help solve Computational Social Science or Computational Linguistics problems, I'm also interested in ethical and social implications of AI/NLP technology and AI education.
+
 
 <div class="media-container"><iframe src="https://www.uwp.is.ed.ac.uk/uwp-widgets/v4/pure/embed.php?u=52e2246d-221c-40bc-b1f7-bc7b75f196a8&v=4&p=0&pl=5&al=0&h=0&c=11" frameborder="0" width="100%" height="720" class="pureframe"></iframe></div>

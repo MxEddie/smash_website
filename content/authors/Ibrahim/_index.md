@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
+- POTATO
 
 #
 #education:
@@ -46,8 +46,8 @@ social:
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
+- icon: external-link-alt
+  icon_pack: fas
   link: https://iabufarha.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,4 +71,4 @@ user_groups:
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student at the School of Informatics, the University of Edinburgh. I am working under the supervision of Walid Magdy and Bonnie Webber. I am also a member of the SMASH research group. My general research interests are Natural Language Processing (NLP), Arabic NLP, Computational Social Science and Machine Learning. My current research interest is sarcasm detection and figurative language anlaysis and detection in the context of Arabic.

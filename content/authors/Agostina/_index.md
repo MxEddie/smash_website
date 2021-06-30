@@ -6,7 +6,7 @@ title: Agostina Calabrese
 superuser: True 
 
 # Role/position
-role: she/her, Phd Student
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
@@ -14,10 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a first-year Ph.D. student at the UKRI Centre for Doctoral Training in NLP, where I am working on policy-aware explainable abuse detection under the supervision of Björn Ross and Mirella Lapata.		
+pronouns: she/her
 
 interests:
-- LOREM IPSUM
+- Online abuse detection
+- Explainability
+- Chocolate cake 
 
 #
 #education:
@@ -43,12 +46,12 @@ social:
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://abeeraldayel.github.io/index.html
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ao9qyhwAAAAJ&hl=it&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Ago3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +74,4 @@ user_groups:
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a first-year Ph.D. student at the UKRI Centre for Doctoral Training in NLP, where I am working on policy-aware explainable abuse detection under the supervision of Björn Ross and Mirella Lapata.		

@@ -12,20 +12,36 @@ main:
     weight: 50
   - name: Resources
     url: resources
-    identifier: potato
+    identifier: resource
     weight: 51
+  #- name: HaHackathon
+  #  url: resources/#hahack
+  #  parent: resource
+  #  weight: 52
   - name: Mazjak
     url: resources/#newmazajak
-    parent: potato
-    weight: 52
+    parent: resource
+    weight: 55
   - name: Urban Dictionary 
     url: resources/#newurbandictionary
-    parent: potato
-    weight: 52
+    parent: resource
+    weight: 56
   - name: Stance Tutorial
     url: resources/#newstance
-    parent: potato
+    parent: resource
     weight: 57
+  - name: HaHackathon
+    url: shared_task
+    weight: 71
+    identifier: shared
+  - name: About
+    url: shared_task
+    parent: shared
+    weight: 73
+  - name: Results
+    url: /hahackathon_results.html
+    parent: shared
+    weight: 75
   - name: Contact
     url: contact
-    weight: 60
+    weight: 100
