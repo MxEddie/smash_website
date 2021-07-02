@@ -58,9 +58,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Eddie-Ungless-3
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +70,9 @@ highlight_name: false
 user_groups:
 - Grad Students
 - All 
+
+cta:
+  url: https://www.researchgate.net/profile/Eddie-Ungless-3
 ---
 
 I am a PhD student entering my second year of study. My focus is on how to detect a wide range of nuanced and intersecting predictive biases in NLP tools, and how to communicate such bias to model developers, model users and others affected by the tools. 

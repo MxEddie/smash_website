@@ -4,12 +4,12 @@
 {{ $ := .root }}
 {{ $page := .page }}
 {{ $show_social := $page.Params.design.show_social | default false }}
-{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_interests := $page.Params.design.show_interests | default false }}
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
 {{ $show_pronouns := $page.Params.design.show_pronouns | default true }}
 
-<div class="row justify-content-center people-widget" style="max-height: min-content">
+<div class="row justify-content-center people-widget" >
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     <h1 align="center">{{ . | markdownify | emojify }}</h1>
@@ -52,7 +52,7 @@
       {{ if and $show_pronouns .Params.pronouns }}<h3>{{ .Params.pronouns | markdownify | emojify }}</h3>{{ end }}
       {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests" style="font-size: 12pt;">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
   {{ end }}

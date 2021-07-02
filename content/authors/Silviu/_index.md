@@ -17,7 +17,6 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
 
 #
 #education:
@@ -57,9 +56,11 @@ social:
 #- icon: website
 #  icon_pack: fas
 #  link: 
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://silviu.oprea.ch/
+
+
+cta:
+  url: https://silviu.oprea.ch/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

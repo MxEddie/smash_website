@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 2
+  count: 3
   # Filter on criteria
   filters:
     author: ""
@@ -32,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
   spacing:
     padding: ["2em", "0", "2em", "0"]
 ---

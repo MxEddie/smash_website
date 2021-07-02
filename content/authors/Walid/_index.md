@@ -16,8 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- LOREM IPSUM 
+interests: 
+
+weight: 2
 
 #
 #education:
@@ -72,8 +73,5 @@ highlight_name: false
 user_groups:
 - Principal Investigators
 - All 
+
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-<div class="media-container"><iframe src="https://www.uwp.is.ed.ac.uk/uwp-widgets/v4/pure/embed.php?u=ab89e536-ce08-43c7-8384-94ab273ab224&v=4&p=0&pl=5&al=0&h=0&c=11" frameborder="0" width="100%" height="720" class="pureframe"></iframe></div>

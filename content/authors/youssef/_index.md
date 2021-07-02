@@ -17,7 +17,6 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
 
 #
 #education:

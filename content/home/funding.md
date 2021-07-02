@@ -4,7 +4,7 @@ activate: true
 weight: 200
 ---
 
-<div class="row" style="width=100%">
+<div class="row">
     <div class="column">
         <img src="/company_logos/ft_logo.svg" 
             width="100" 
@@ -42,3 +42,5 @@ weight: 200
     </div>
 
 </div>
+
+<h3 style="text-align:center;">Our Collaborators & Funders</h3>

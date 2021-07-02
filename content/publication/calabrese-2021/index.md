@@ -1,0 +1,12 @@
+---
+title: "AAA: Fair Evaluation for Abuse Detection Systems Wanted"
+date: 2021-01-01
+publishDate: 2021-07-02T09:46:13.588562Z
+authors: ["Agostina Calabrese", "Michele Bevilacqua", "Björn Ross", "Rocco Tripodi", "Roberto Navigli"]
+publication_types: ["1"]
+abstract: "User-generated web content is rife with abusive language that can harm others and discourage participation. Thus, a primary research aim is to develop abuse detection systems that can be used to alert and support human moderators of online communities. Such systems are notoriously hard to develop and evaluate. Even when they appear to achieve satisfactory performance on current evaluation metrics, they may fail in practice on new data. This is partly because datasets commonly used in this field suffer from selection bias, and consequently, existing supervised models over rely on cuewords such as group identifiers (e.g., gay and black) which are not inherently abusive. Although there are attempts to mitigate this bias, current evaluation metrics do not adequately quantify their progress. In this work, we introduce Adversarial Attacks against Abuse (AAA), a new evaluation strategy and associated metric that better captures a model’s performance on certain classes of hard-to-classify microposts, and for example penalises systems which are biased on low-level lexical features. It does so by adversarially modifying the model developer’s training and test data to generate plausible test samples dynamically. We make AAA available as an easy-to-use tool, and show its effectiveness in error analysis by comparing the AAA performance of several state-of-the-art models on multiple datasets. This work will inform the development of detection systems and contribute to the fight against abusive language online."
+featured: false
+publication: "*WebSci '21: 13th ACM Web Science Conference 2021*"
+doi: "10.1145/3447535.3462484"
+---
+
