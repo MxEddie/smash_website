@@ -6,7 +6,7 @@ title: Lushi Chen
 superuser: True 
 
 # Role/position
-role: Former Phd Student
+role: Recent graduate
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,6 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
 
 #
 #education:
@@ -57,9 +56,9 @@ social:
 #- icon: website
 #  icon_pack: fas
 #  link: 
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://lushichen.com/
+
+cta:
+  url: https://lushichen.com/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,7 +70,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-- All 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

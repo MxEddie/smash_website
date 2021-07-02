@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Mohamed Bahgat
+title: Björn Ross
+name: Björn 
 
 # Is this the primary user of the site?
-superuser: True 
+superuser: false 
 
 # Role/position
-role: Phd Student
+role: Lecturer  
 
 # Organizations/Affiliations
 organizations:
@@ -15,8 +16,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: he/him 
 
 interests:
+- Computational social science
+- Information systems
+- Social media 
+
+weight: 1
 
 #
 #education:
@@ -55,10 +62,7 @@ social:
 #   link: files/cv.pdf
 #- icon: website
 #  icon_pack: fas
-#  link:
-
-cta:
-  url: https://www.linkedin.com/in/mohamed-bahgat-45616973/
+#  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,8 +73,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Principal Investigators
 - All 
+
+cta:
+  url: https://sweb.inf.ed.ac.uk/bross3/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. In my research, I primarily use computational methods from agent-based modelling, natural language processing and social network analysis to study social media and related technologies. A key focus of my research is to explore different aspects of social media, such as misinformation, hate speech, and the malicious use of automation (bots), as well as how social media can be used effectively for social good, such as in crisis communication. I also examine issues with these methods, from data collection practices to research data management.
+
+At Edinburgh, I am a co-director of the SMASH group. Before working here, I was a postdoctoral researcher at the University of Duisburg-Essen, where I also completed my PhD. I am a member of the Association for Information Systems and an Associate Editor of Business & Information Systems Engineering.
+

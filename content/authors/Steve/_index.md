@@ -21,6 +21,8 @@ interests:
 - Natural language processing
 - Computational social science
 
+weight: 3 
+
 #
 #education:
 #  courses:
@@ -59,9 +61,11 @@ social:
 #- icon: website
 #  icon_pack: fas
 #  link: 
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://steverw.com/
+
+cta:
+  url: https://steverw.com/
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

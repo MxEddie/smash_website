@@ -17,7 +17,6 @@ organizations:
 bio: 
 
 interests:
-- LOREM IPSUM 
 
 #
 #education:
@@ -65,7 +64,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-- All 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

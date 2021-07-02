@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Agostina Calabrese
+name: Agostina 
 
 # Is this the primary user of the site?
 superuser: True 
@@ -57,9 +58,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://ago3.github.io/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,6 +71,9 @@ highlight_name: false
 user_groups:
 - Grad Students
 - All 
+
+cta:
+  url: https://ago3.github.io/
 ---
 
 I am a first-year Ph.D. student at the UKRI Centre for Doctoral Training in NLP, where I am working on policy-aware explainable abuse detection under the supervision of Björn Ross and Mirella Lapata.		
