@@ -39,6 +39,6 @@ Steven Wilson, University of Edinburgh, steven.wilson@ed.ac.uk
 
 {{</spoiler>}}
   
-<h2><b>View the results here:</b></h2><a href="http://smash.inf.ed.ac.uk/hahackathon_results.html">Hahackathon Results</a>
+<h2><b>View the results here:</b></h2><a href="http://smash.inf.ed.ac.uk/tasks_results/hahackathon_results.html">Hahackathon Results</a>
 
 <h2><b>Data coming shortly</b></h2>

@@ -10,7 +10,7 @@ role: Recent graduate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
+- name: University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,4 +72,4 @@ user_groups:
 - Alumni
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a PhD student at the Informatics, University of Edinburgh. My research concentrates on using digital data to track the affective, cognitive, and behavioral changes of users, identifying the associations between digital signals and symptoms of mental disorders.

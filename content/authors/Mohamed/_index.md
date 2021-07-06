@@ -10,8 +10,8 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
-  url: ""
+- name: University of Edinburgh
+  url: "https://www.inf.ed.ac.uk/people/students/Mohamed_Bahgat.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -69,8 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

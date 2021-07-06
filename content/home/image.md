@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title:
+title:  
 subtitle:
 
 design:
@@ -29,3 +29,5 @@ design:
 advanced:
   css_class: fullscreen
 ---
+
+Image credit Peter Taffy

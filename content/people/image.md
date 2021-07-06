@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 110
+weight: 200
 
-title:
+title:  
 subtitle:
 
 design:
@@ -22,10 +22,12 @@ design:
     image_darken: 0
     image_parallax: true
     image_position: center
-    image_size: contain
+    image_size: cover 
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["0", "0", "0", "0"]
 advanced:
   css_class: fullscreen
 ---
+
+Image credit Peter Taffy

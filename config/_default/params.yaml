@@ -15,7 +15,7 @@ font_size: M
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Social Media Analysis and Support for Humanity
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -28,8 +28,8 @@ address:
   country: Scotland
   country_code: UK
 coordinates:
-  latitude: '55.94484706919222'
-  longitude: '-3.1873141883566665'
+  latitude: "55.94484706919222"
+  longitude: "-3.1873141883566665"
 contact_links:
   - icon: youtube
     icon_pack: fab
@@ -110,10 +110,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-#map:
-#  provider: '1'
-#  api_key: 'AIzaSyCvh_b9g6QNiqMZ8dhgAbuZhA_mX2cRHy4'
-#  zoom: 15
+map:
+  provider: "Google"
+  api_key: "AIzaSyCvh_b9g6QNiqMZ8dhgAbuZhA_mX2cRHy4"
+  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''

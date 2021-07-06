@@ -11,8 +11,8 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
-  url: ""
+- name: University of Edinburgh
+  url: "https://www.inf.ed.ac.uk/people/students/Agostina_Calabrese.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a first-year Ph.D. student at the UKRI Centre for Doctoral Training in NLP, where I am working on policy-aware explainable abuse detection under the supervision of Björn Ross and Mirella Lapata.		
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 
 cta:

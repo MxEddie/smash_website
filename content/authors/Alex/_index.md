@@ -10,7 +10,7 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
+- name: University of Edinburgh
   url: "http://homepages.inf.ed.ac.uk/s1202948/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,9 +56,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://homepages.inf.ed.ac.uk/s1202948/
+
+cta:
+  url: https://homepages.inf.ed.ac.uk/s1202948/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,8 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD candidate at the University of Edinburgh and a member of the CDT in Data Science where I'm supervised by Sharon Goldwater and Walid Magdy.
+
+Working with terabytes of Twitter data and historical corpora that can fit on a floppy disk, I investigate how language is used, how it varies between people and how this all changes across time.

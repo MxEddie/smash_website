@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SMASH Research Group # Website name
-baseurl: '' # Website URL
+baseurl: 'https://smash.inf.ed.ac.uk/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

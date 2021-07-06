@@ -39,7 +39,7 @@ main:
     parent: shared
     weight: 73
   - name: Results
-    url: /hahackathon_results.html
+    url: /tasks_results/hahackathon_results.html
     parent: shared
     weight: 75
   - name: Contact

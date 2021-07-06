@@ -27,12 +27,9 @@ advanced:
 
 <h2 style="font-size:16pt"> Social Media Analysis and Support for Humanity </h2> 
 
-<p style="font-family:Trebuchet MS;font-size:12pt;line-height: 1.5;text-align:justify">SMASH is a research group that brings together a range of researchers from the University of Edinburgh in order to build on our existing strengths in social media research. This research group focuses on mining structures and behaviours in social networks.</p>
+<p>SMASH is a research group that brings together a range of researchers from the University of Edinburgh in order to build on our existing strengths in social media research. This research group focuses on mining structures and behaviours in social networks.</p>
 
 
-
-
-<font size=3>
 List of current projects:
 
 - Detecting stance, sarcasm, hate speech, humour & fake news
@@ -43,7 +40,6 @@ List of current projects:
 - Atheism in the Arab Twittersphere
 - Social bias in NLP 
 
-</font>
 
 
 

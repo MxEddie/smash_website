@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Youssef Al Hariri
+title: Youssef Al Hariri		
+pronouns: he/him
 
 # Is this the primary user of the site?
 superuser: True 
@@ -10,13 +11,16 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
-  url: ""
+- name: University of Edinburgh
+  url: http://www.inf.ed.ac.uk/people/staff/Youssef_Al_Hariri.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
+- Computational social science
+- Data science
+- NLP
 
 #
 #education:
@@ -39,9 +43,9 @@ social:
 #- icon: envelope
   #icon_pack: fas
   #link: 'mailto:test@example.org'
-#- icon: twitter
-  #icon_pack: fab
-  #link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YoussefHariri1
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,6 +64,9 @@ social:
 #  icon_pack: fas
 #  link: 
 
+cta:
+  url: https://www.ed.ac.uk/profile/youssef-alhariri
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -69,8 +76,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Youssef AL Hariri is a PhD student at ILCC, School of Informatics, the University of Edinburgh. He received his BSc (Honors) in Computer Engineering from Qatar University in 2017, and MSc in Artificial Intelligence from the University of Edinburgh in 2018. He is interested in studies related to social computing, social network analysis and NLP. 
+

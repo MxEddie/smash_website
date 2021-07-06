@@ -10,8 +10,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
-  url: "https://www.linkedin.com/in/dilarakekulluoglu/"
+- name: University of Edinburgh
+  url: "https://www.inf.ed.ac.uk/people/students/Dilara_Kekulluoglu.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -45,14 +45,19 @@ social:
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://abeeraldayel.github.io/index.html
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dilarakekulluoglu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
+
+
+cta:  
+  url: https://dilarakkl.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,8 +68,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am third year PhD student at School of Informatics, University of Edinburgh in Scotland, UK. My research interests are privacy on social media, computational social science, human computer interaction, natural language processing. My current focus is on privacy on social media, especially unintended disclosures and user understanding of privacy controls.
+

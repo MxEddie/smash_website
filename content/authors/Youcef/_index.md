@@ -1,29 +1,26 @@
 ---
 # Display name
-title: Björn Ross
-name: Björn 
+title: Youcef Benkhedda		
+pronouns: he/him
 
 # Is this the primary user of the site?
-superuser: false 
+superuser: True 
 
 # Role/position
-role: Lecturer  
+role: Research Associate 
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "https://www.inf.ed.ac.uk/people/staff/Bjorn_Ross.html"
+  url: http://www.inf.ed.ac.uk/people/staff/Youssef_Al_Hariri.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: he/him 
 
 interests:
 - Computational social science
-- Information systems
-- Social media 
-
-weight: 1
+- NLP
+- User profiling
 
 #
 #education:
@@ -47,14 +44,14 @@ social:
   #icon_pack: fas
   #link: 'mailto:test@example.org'
 #- icon: twitter
-  #icon_pack: fab
-  #link: https://twitter.com/GeorgeCushen
+#  icon_pack: fab
+#  link: https://twitter.com/YoussefHariri1
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/banyous
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +60,14 @@ social:
 #- icon: website
 #  icon_pack: fas
 #  link: 
+#- icon: external-link-alt
+#  icon_pack: fas
+#  link: 
+
+cta:
+  url: 
+
+weight: 4
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,11 +78,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 - All 
-
-cta:
-  url: https://sweb.inf.ed.ac.uk/bross3/
 ---
-
-I am a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. 

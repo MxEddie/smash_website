@@ -10,7 +10,7 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
+- name: University of Edinburgh
   url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 
 cta:

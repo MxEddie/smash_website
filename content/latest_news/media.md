@@ -17,6 +17,19 @@ design:
     padding: ["2em", "0", "2em", "0"]
 ---
 
+## Yellow emojis are not neutral 
+Robertson A., W. Magdy, S. Goldwater. Black or White but never neutral: How readers perceive identity from yellow or skin-toned emoji. ACM 2021 <i><a href="https://arxiv.org/abs/2105.05887">arXiv</a></i>
+	
+
+<h3>Articles:</h3>
+
+	
+* <a href=https://www.thetimes.co.uk/article/ethnicity-is-black-and-white-when-it-comes-to-colour-of-emojis-khnxzjbc5>Ethnicity is black and white when it comes to colour of emojis
+</a>
+	
+* <a href=https://news.stv.tv/scotland/yellow-emoji-not-neutral-symbol-of-identity-says-study?top>Yellow emoji not neutral symbol of identity, says study
+</a>
+
 
 ## Online Signals that can Reveal User's Views
 Aldayel A. and W. Magdy. Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media. CSCW 2019 <i><a href="https://arxiv.org/abs/1908.03146">arXiv</a></i>

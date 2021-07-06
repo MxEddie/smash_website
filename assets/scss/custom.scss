@@ -51,7 +51,6 @@ section#welcome figure{
     max-width:20%;
     height:auto;
     float:left;
-    padding-right: 10px;
 }
 
 section#image{
@@ -64,3 +63,24 @@ section#funding div.column {
     padding: 5px;
     padding-block-start: 0px;
   }
+
+
+#contact .map-responsive{
+
+    overflow:hidden;
+    position:relative;
+    float: right;
+    width: 80%;
+    height: 80%;
+    
+}
+
+#contact .map-responsive iframe{
+
+    height:100%;
+
+    width:100%;
+
+    position:relative;
+
+}

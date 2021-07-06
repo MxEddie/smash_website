@@ -6,12 +6,12 @@ title: Ibrahim AbuFarha
 superuser: True 
 
 # Role/position
-role: Phd Student
+role: PhD Student 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ediburgh
-  url: ""
+- name: University of Edinburgh
+  url: "https://www.inf.ed.ac.uk/people/staff/Ibrahim_Abu_Farha.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -64,11 +64,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Doctoral Researchers 
 - All 
 
 cta:
   url: https://iabufarha.github.io/
 ---
 
-I am a PhD student at the School of Informatics, the University of Edinburgh. I am working under the supervision of Walid Magdy and Bonnie Webber. I am also a member of the SMASH research group. My general research interests are Natural Language Processing (NLP), Arabic NLP, Computational Social Science and Machine Learning. My current research interest is sarcasm detection and figurative language anlaysis and detection in the context of Arabic.
+I am a PhD student at the School of Informatics, the University of Edinburgh. I am working under the supervision of Walid Magdy and Bonnie Webber. 
