@@ -6,7 +6,7 @@ title: Steve Wilson
 superuser: True 
 
 # Role/position
-role: Post Doc
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -76,8 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- All 
+- Alumni
 ---
 
 I research how we can develop and use Natural Language Processing (NLP) tools to learn things about people based on what they write in various settings.
