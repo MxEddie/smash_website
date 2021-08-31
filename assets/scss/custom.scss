@@ -84,3 +84,26 @@ section#funding div.column {
     position:relative;
 
 }
+
+#image {
+    z-index: 10;
+}
+
+#image .home-section{
+    padding: 0 0 0 0 ;
+}
+
+@media (max-width:800px) {
+    #welcome img{
+      width:80px;
+      padding-top:0em;
+    }
+  }
+
+@media (min-width:800px) {
+#welcome img{
+    bottom: 5%;
+    right: 10%;
+    position:fixed;
+    z-index: 5;}
+}

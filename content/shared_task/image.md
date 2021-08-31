@@ -16,18 +16,18 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: 2
   background:
-    image: informatics_image.jpeg
+    image: teamphoto3.jpeg
     image_darken: 0
     image_parallax: true
     image_position: center
-    image_size: cover 
+    image_size: contain 
     text_color_light: true
   spacing:
-    padding: ["0", "0", "0", "0"]
+    padding: ["10%", "0", "27%", "0"]
 advanced:
-  css_class: fullscreen
+  css_class: 
+  custom_css:
 ---
 
-Image credit Peter Taffy

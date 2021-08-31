@@ -10,24 +10,27 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 4
 
 title:  
 subtitle:
 
 design:
-  columns: "1"
+  columns: 2
   background:
-    image: informatics_image.jpeg
+    image: teamphoto3.jpeg
+    alt: home
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: cover 
+    image_size: contain 
     text_color_light: true
+    
   spacing:
-    padding: ["0", "0", "0", "0"]
+    padding: ["10%", "0", "27%", "0"]
 advanced:
-  css_class: fullscreen
+  css_class: 
+  custom_css:
+
 ---
 
-Image credit Peter Taffy

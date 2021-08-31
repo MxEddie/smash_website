@@ -3,7 +3,7 @@
 {{ $bg := $page.Params.design.background }}
 
 {{ if $page.Params.hero_media }}
-<div class="row">
+<div class="row" style="justify-content: center;">
   <div class="col-12 col-md-6 text-center text-md-left">
 {{ end }}
 
@@ -12,7 +12,7 @@
     {{ end }}
 
     {{ with $page.Content }}
-      <div class="hero-lead">{{ . }}</div>
+      <div class="hero-lead" style="text-align: left;">{{ . }}</div>
     {{ end }}
 
     {{/* Call-to-action link */}}
@@ -63,7 +63,7 @@
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $page.Params.hero_media) -}}
     {{- end -}}
-    {{ if $image }}
+      {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ if $isSVG -}}
 
