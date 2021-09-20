@@ -21,7 +21,6 @@ interests:
 - Natural language processing
 - Computational social science
 
-weight: 3 
 
 #
 #education:

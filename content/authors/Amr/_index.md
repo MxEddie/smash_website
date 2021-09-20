@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Eddie Ungless
+title: Amr Keleg		
 
 # Is this the primary user of the site?
-superuser: True 
+superuser: false
 
 # Role/position
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
+  url: "http://www.inf.ed.ac.uk/people/students/Amr_Mohamed_Hosny_Anwar_Keleg.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: they/them, he/him
+pronoun: he/him
 
+interests: 
+- Low-resourced dialects
+- Arabic NLP
+- Offensive text classification
 
-interests:
-- Intersectional identity theory
-- Predictive bias
-- Algorithmic justice 
 
 #
 #education:
@@ -47,23 +47,26 @@ social:
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://abeeraldayel.github.io/index.html
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=4YkMPp0AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AMR-KELEG
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
- - icon: linkedin
-   icon_pack: fab
-   link: https://www.linkedin.com/in/eddie-ungless-85ba761ba/ 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/amr-keleg/
+
+cta:
+  url: https://amr-keleg.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,9 +76,6 @@ highlight_name: false
 user_groups:
 - Doctoral Researchers 
 - All 
-
-cta:
-  url: https://www.researchgate.net/profile/Eddie-Ungless-3
 ---
 
-I am a PhD student entering my second year of study. My focus is on how to detect a wide range of nuanced and intersecting predictive biases in NLP tools, and how to communicate such bias to model developers, model users and others affected by the tools. 
+I am a first-year PhD student working under the supervision of Walid Magdy and Sharon Goldwater, and interested in investigating the lower resourced dialects of Arabic.		

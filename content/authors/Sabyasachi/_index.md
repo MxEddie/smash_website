@@ -17,6 +17,8 @@ organizations:
 bio: 
 pronouns: he/him 
 
+weight: 4
+
 interests:
 - NLP
 - CSS 
@@ -69,9 +71,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Researchers
 - All 
----
+
+----
 
 Most of my current research applies to the experiments to get insights from the unstructured
 texts (eg, tweets) and make the data representable to feed to the machine learning models for solving different NLP tasks

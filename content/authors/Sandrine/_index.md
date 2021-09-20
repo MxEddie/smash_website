@@ -1,27 +1,29 @@
 ---
 # Display name
-title: Eddie Ungless
+title: Sandrine Chausson		
 
 # Is this the primary user of the site?
-superuser: True 
+superuser: false
 
 # Role/position
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
+  url: "http://www.inf.ed.ac.uk/people/students/Sandrine_Chausson.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: they/them, he/him
+pronoun: She/Her
 
+interests: 
+- Applied Natural Language Processing
+- Computational Social Science
+- History of Ideas
+- Cognitive Biases
+- Moral Philosophy
 
-interests:
-- Intersectional identity theory
-- Predictive bias
-- Algorithmic justice 
 
 #
 #education:
@@ -58,12 +60,12 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
- - icon: linkedin
-   icon_pack: fab
-   link: https://www.linkedin.com/in/eddie-ungless-85ba761ba/ 
+
+#cta:
+#  url: https://abeeraldayel.github.io/index.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,9 +75,6 @@ highlight_name: false
 user_groups:
 - Doctoral Researchers 
 - All 
-
-cta:
-  url: https://www.researchgate.net/profile/Eddie-Ungless-3
 ---
 
-I am a PhD student entering my second year of study. My focus is on how to detect a wide range of nuanced and intersecting predictive biases in NLP tools, and how to communicate such bias to model developers, model users and others affected by the tools. 
+I'm a first year PhD student at the UKRI Centre for Doctoral Training in Natural Language Processing at the University of Edinburgh working under the supervision of Björn Ross and Nadin Kokciyan. My research focuses on analysing the evolution of the environmental discourse over the last few decades using techniques from NLP.		
