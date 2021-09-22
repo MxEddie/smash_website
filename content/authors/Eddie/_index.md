@@ -23,6 +23,8 @@ interests:
 - Predictive bias
 - Algorithmic justice 
 
+weight: 375
+
 #
 #education:
 #  courses:

@@ -23,7 +23,7 @@ interests:
 - Information systems
 - Social media 
 
-weight: 2
+weight: 110
 
 #
 #education:

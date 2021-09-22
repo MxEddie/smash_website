@@ -67,7 +67,7 @@ social:
 cta:
   url: 
 
-weight: 3
+weight: 210
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

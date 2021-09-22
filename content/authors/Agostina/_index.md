@@ -23,6 +23,8 @@ interests:
 - Explainability
 - Chocolate cake 
 
+weight: 370
+
 #
 #education:
 #  courses:

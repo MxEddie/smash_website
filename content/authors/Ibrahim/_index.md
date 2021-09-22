@@ -18,6 +18,8 @@ bio:
 
 interests:
 
+weight: 350
+
 #
 #education:
 #  courses:

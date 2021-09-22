@@ -21,6 +21,8 @@ interests:
 - Social media
 - Data science 
 
+weight: 300
+
 #
 #education:
 #  courses:

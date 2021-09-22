@@ -17,7 +17,7 @@ organizations:
 bio: 
 pronouns: he/him 
 
-weight: 4
+weight: 220
 
 interests:
 - NLP

@@ -22,6 +22,7 @@ interests:
 - Arabic NLP
 - Offensive text classification
 
+weight: 380
 
 #
 #education:

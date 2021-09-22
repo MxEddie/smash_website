@@ -22,6 +22,8 @@ interests:
 - NLP
 - Social Science
 
+weight: 360
+
 
 #
 #education:

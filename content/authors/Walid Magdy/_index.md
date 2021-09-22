@@ -18,7 +18,7 @@ bio:
 
 interests: 
 
-weight: 1
+weight: 100
 
 #
 #education:
@@ -80,4 +80,5 @@ cta:
 ---
 
 I am a faculty member at the Institute for Language, Cognition and Computation (ILCC), part of the School of Informatics, the Univeristy of Edinburgh. I am also a faculty fellow at The Alan Turing Institute. My main expertise is in social computing, information retrieval (IR), and data mining. 
+
 

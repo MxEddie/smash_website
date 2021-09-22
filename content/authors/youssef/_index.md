@@ -22,6 +22,8 @@ interests:
 - Data science
 - NLP
 
+weight: 340
+
 #
 #education:
 #  courses:

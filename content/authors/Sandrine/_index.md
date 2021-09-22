@@ -24,6 +24,8 @@ interests:
 - Cognitive Biases
 - Moral Philosophy
 
+weight: 385
+
 
 #
 #education:
