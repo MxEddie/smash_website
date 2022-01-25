@@ -4,7 +4,7 @@ date = 2019-05-30T01:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Robertson A.", "W. Magdy"]
+authors = ["A. Robertson", "W. Magdy"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,7 @@ authors = ["Robertson A.", "W. Magdy"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IC2S2 2019 "
-publication_short = "In *IC2S2-2019 *"
+publication = "IC2S2 2019"
 
 # Abstract and optional shortened version.
 abstract = ""
