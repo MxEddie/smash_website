@@ -17,6 +17,15 @@ design:
     padding: ["2em", "0", "2em", "0"]
 ---
 
+## Birthday wishes leak private information
+Dilara Keküllüoğlu, Walid Magdy, and Kami Vaniea. 2022. From an Authentication Question to a Public Social Event: Characterizing Birthday Sharing on Twitter. arXiv:2201.10655 [cs], January. arXiv: 2201.10655.
+<i><a href="https://arxiv.org/abs/2201.10655">arXiv</a></i>
+
+<h3>Articles:</h3>
+
+* <a href=https://institutions.newscientist.com/article/2306361-birthday-wishes-inadvertently-give-away-private-information-online>Birthday wishes inadvertently give away private information online
+</a>
+
 ## Yellow emojis are not neutral 
 Robertson A., W. Magdy, S. Goldwater. Black or White but never neutral: How readers perceive identity from yellow or skin-toned emoji. ACM 2021 <i><a href="https://arxiv.org/abs/2105.05887">arXiv</a></i>
 	
