@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sabyasachi Kamila
+title: Xue Li
 
 # Is this the primary user of the site?
-superuser: false
+superuser: True 
 
 # Role/position
 role: Research Associate 
@@ -15,13 +15,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: he/him 
-
-weight: 220
 
 interests:
+- Computational Logic
 - NLP
-- CSS 
+- Faulty Theory Repair
+
+weight: 240
 
 #
 #education:
@@ -47,23 +47,26 @@ social:
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Awp-a4QAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
-#  link: https://abeeraldayel.github.io/index.html
+#  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+#- icon: website
+#  icon_pack: fas
+#  link:
 
-cta:
-  url: 
+#cta:
+#  url: https://www.linkedin.com/in/mohamed-bahgat-45616973/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -71,10 +74,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Researchers 
 - All 
+---
 
-----
-
-Most of my current research applies to the experiments to get insights from the unstructured
-texts (eg, tweets) and make the data representable to feed to the machine learning models for solving different NLP tasks
+I am interested in automating faulty theory's detection and repair, which has wide applications, e.g., game theory modelling, root-cause analysis. As a postdoc, I work with Björn Ross and Vaishak Belle on misinformation detection.		

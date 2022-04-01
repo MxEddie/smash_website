@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: they/them, he/him
+pronouns: he/him, they/them 
 
 
 interests:
@@ -80,4 +80,4 @@ cta:
   url: https://www.researchgate.net/profile/Eddie-Ungless-3
 ---
 
-I am a PhD student entering my second year of study. My focus is on how to detect a wide range of nuanced and intersecting predictive biases in NLP tools, and how to communicate such bias to model developers, model users and others affected by the tools. 
+I am a PhD student entering my second year of study. My focus is on how to detect predictive biases in NLP tools; how the public are impacted by and respond to these biases; and what we as a research community can do about them! 

@@ -17,13 +17,27 @@ design:
     padding: ["2em", "0", "2em", "0"]
 ---
 
+## Bots have less influence than celebrities
+Abeer Aldayel and Walid Magdy. 2022. Characterizing the role of bots’ in polarized stance on social media. Social Network Analysis and Mining, 12(1). <i><a href="https://doi.org/10.1007/s13278-022-00858-z">DOI</a></i>
+
+<h3> Articles: </h3>
+
+* <a href="https://phys.org/news/2022-02-bots-twitter-celebrities.html">Study: Bots on Twitter have less influence than celebrities</a>
+* <a href="https://www.scottishdailyexpress.co.uk/news/weird-news/edinburgh-researchers-say-celebrities-influencers-26257054">Edinburgh researchers say celebrities and influencers 'more dangerous' than bots</a>
+* <a href="https://www.eurekalert.org/news-releases/943821">Bots less of a bother on social media than celebs, study finds</a>
+* <a href="https://www.derstandard.de/consent/tcf/story/2000133505992/promis-verbreiten-desinformation-besser-als-bots">Promis verbreiten Desinformation besser als Bots ("Celebrities spread misinformation better than bots")
+</a>
+* <a href="https://www.berliner-zeitung.de/news/studie-zu-social-media-einfluss-von-bots-koennte-ueberbewertet-sein-li.212976">Studie zu Social Media: Wird der Einfluss von Bots überbewertet? ("Social Media Study: Is the Influence of Bots Overstated?")
+</a>
+
+
 ## Birthday wishes leak private information
 Dilara Keküllüoğlu, Walid Magdy, and Kami Vaniea. 2022. From an Authentication Question to a Public Social Event: Characterizing Birthday Sharing on Twitter. arXiv:2201.10655 [cs], January. arXiv: 2201.10655.
 <i><a href="https://arxiv.org/abs/2201.10655">arXiv</a></i>
 
 <h3>Articles:</h3>
 
-* <a href=https://institutions.newscientist.com/article/2306361-birthday-wishes-inadvertently-give-away-private-information-online>Birthday wishes inadvertently give away private information online
+* <a href=https://www.newscientist.com/article/2306361-birthday-wishes-inadvertently-give-away-private-information-online/>Birthday wishes inadvertently give away private information online
 </a>
 
 ## Yellow emojis are not neutral 
