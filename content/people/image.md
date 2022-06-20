@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: teamphoto3.jpeg
+    image: IMG_0474.jpg
     image_darken: 0
     image_parallax: true
     image_position: center
