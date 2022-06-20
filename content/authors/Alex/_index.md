@@ -6,7 +6,7 @@ title: Alexander Robertson
 superuser: false
 
 # Role/position
-role: Phd Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -71,8 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Researchers 
-- All 
+- Alumni 
 ---
 
 I'm a PhD candidate at the University of Edinburgh and a member of the CDT in Data Science where I'm supervised by Sharon Goldwater and Walid Magdy.

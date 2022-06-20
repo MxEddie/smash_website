@@ -26,3 +26,6 @@ design:
   show_social: false
   show_pronouns: true 
 ---
+
+<h1> Photos from our Team Away Day at Loch Lomond </h1>
+{{< gallery album="awayday22" resize_options="x350" >}}

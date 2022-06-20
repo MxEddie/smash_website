@@ -18,16 +18,17 @@ subtitle:
 design:
   columns: 2
   background:
-    image: teamphoto3.jpeg
+    image: IMG_0474.jpg
     alt: home
     image_darken: 0
     image_parallax: false
-    image_position: center
-    image_size: contain 
+    image_position: cover
+    image_size: cover
+    image_parallax: true
     text_color_light: true
     
   spacing:
-    padding: ["10%", "0", "27%", "0"]
+    padding: ["20%", "0", "20%", "0"]
 advanced:
   css_class: 
   custom_css:
