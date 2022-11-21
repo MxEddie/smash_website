@@ -2,7 +2,9 @@
 widget: blank
 weight: 40
 title: "HaHackathon Semeval2021"
-active: false 
+active: true  
+aliases:
+    - smash.inf.ed.ac.uk/shared_task/
 --- 
 
 <h1><b> Task 7: Hahackathon: Linking Humor and Offense Across Different Age Groups </b></h1>
@@ -32,7 +34,6 @@ Steven Wilson, University of Edinburgh, steven.wilson@ed.ac.uk
 
 {{</spoiler>}}
   
-<h2><b>View the results here</b></h2>
-<a href="http://smash.inf.ed.ac.uk/hahackathon_results.html">Hahackathon Results</a>
+<h2><b>View the results here:</b></h2><a href="http://smash.inf.ed.ac.uk/tasks_results/hahackathon_results.html">Hahackathon Results</a>
 
-<h3>Data coming shortly</h3>
+<h2><b>Download the data here:</b></h2><a href="http://smash.inf.ed.ac.uk/hahackathon_data/hahackathon_data.zip">Hahackathon Data</a>

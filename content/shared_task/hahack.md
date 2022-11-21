@@ -1,4 +1,6 @@
 ---
+active: false   
+
 # Course title, summary, and position.
 linktitle: HaHackathon Semeval2021
 summary: HaHackathon Semeval2021 shared task.
@@ -41,4 +43,4 @@ Steven Wilson, University of Edinburgh, steven.wilson@ed.ac.uk
   
 <h2><b>View the results here:</b></h2><a href="http://smash.inf.ed.ac.uk/tasks_results/hahackathon_results.html">Hahackathon Results</a>
 
-<h2><b>Data coming shortly</b></h2>
+<h2><b>Download the data here:</b></h2><a href="http://smash.inf.ed.ac.uk/hahackathon_data/hahackathon_data.zip">Hahackathon Data</a>

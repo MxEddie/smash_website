@@ -14,10 +14,10 @@ main:
     url: resources
     identifier: resource
     weight: 51
-  #- name: HaHackathon
-  #  url: resources/#hahack
-  #  parent: resource
-  #  weight: 52
+  - name: HaHackathon
+    url: resources/#hahack
+    parent: resource
+    weight: 52
   - name: Mazjak
     url: resources/#newmazajak
     parent: resource
@@ -30,18 +30,18 @@ main:
     url: resources/#newstance
     parent: resource
     weight: 57
-  - name: HaHackathon
-    url: shared_task
-    weight: 71
-    identifier: shared
-  - name: About
-    url: shared_task
-    parent: shared
-    weight: 73
-  - name: Results
-    url: /tasks_results/hahackathon_results.html
-    parent: shared
-    weight: 75
+  #- name: HaHackathon
+  #  url: shared_task
+  #  weight: 71
+  #  identifier: shared
+  #- name: About
+  #  url: shared_task
+  #  parent: shared
+  #  weight: 73
+  #- name: Results
+  #  url: /tasks_results/hahackathon_results.html
+  #  parent: shared
+  #  weight: 75
   - name: Contact
     url: contact
     weight: 100
