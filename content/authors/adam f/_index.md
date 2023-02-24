@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eddie Ungless
+title: Adam Ferron		
 
 # Is this the primary user of the site?
 superuser: True 
@@ -11,17 +11,17 @@ role: Phd Student
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
+#  url: "http://www.inf.ed.ac.uk/people/students/Eddie_Ungless.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: he/him, they/them 
+pronouns: 
 
 
 interests:
-- Intersectional identity theory
-- Predictive bias
-- Algorithmic justice 
+- Digital (Authoritarianism)
+- Political Islam
+- State-society relations
 
 weight: 375
 
@@ -48,7 +48,7 @@ social:
   #link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MxEddie_
+  link: https://twitter.com/adamferron?lang=en
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,9 +60,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/eddie-ungless-85ba761ba/ 
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/eddie-ungless-85ba761ba/ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,7 +77,14 @@ user_groups:
 - All 
 
 cta:
-  url: https://mxeddie.github.io/about/
+  url: https://www.ed.ac.uk/profile/adam-ferron
 ---
 
-I am a PhD student entering my second year of study. My focus is on how to detect predictive biases in NLP tools; how the public are impacted by and respond to these biases; and what we as a research community can do about them! 
+Adam Ferron is a Tobagonian born, Eurasian-British scholar at the Department of Islamic and Middle Eastern Studies. Their disciplinary background is political sociology. They came to Edinburgh to further advance their Arabic through its MSc Arabic language programme, before commencing their PhD in 2020 with 2+3 funding from the Economic and Social Research Council. Prior to coming to Edinburgh, they were Scholar-in-Residence at the Council for British Research in the Levant based in Amman, Jordan. They earned their MA in Near and Middle Eastern Studies from the School of Oriental and African Studies, and have a professional background in research and policy work in both local government in London, and the UK Foreign and Commonwealth Office.
+Responsibilities & affiliations
+Affiliate of Edinburgh Futures Institute (EFI)
+Affiliate of the Centre for Data Culture and Society (CDCS) 
+Member of the British Association for Islamic Studies (BRAIS)
+Member of the British Society for Middle Eastern Studies (BRISMES)
+Member of Social Media Analysis and Support for Humanity (SMASH)
+Member of Social Network Analysis in Scotland Group (SNAS)

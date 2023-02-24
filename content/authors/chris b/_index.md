@@ -1,28 +1,29 @@
 ---
 # Display name
-title: Amr Keleg		
+title: Christopher Barrie		
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true  
 
 # Role/position
-role: PhD Student
+role: Lecturer in Computational Sociology		
 
 # Organizations/Affiliations
 organizations:
-- name: University of Edinburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Amr_Mohamed_Hosny_Anwar_Keleg.html"
+- name: University of Ediburgh
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronoun: 
+pronouns: he/him
 
-interests: 
-- Model generalization to dialects
-- Interpretability and analysis
-- Arabic NLP
+interests:
+- Political Communication
+- NLP
+- Digital trace data
 
-weight: 380
+weight: 201
+
 
 #
 #education:
@@ -50,24 +51,19 @@ social:
   #link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=4YkMPp0AAAAJ
+  link: https://scholar.google.com/citations?user=fElnaBEAAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/AMR-KELEG
+  link: https://github.com/cjbarrie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/amr-keleg/
 
-cta:
-  url: https://amr-keleg.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,8 +71,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Researchers 
+- Researchers
 - All 
+
+#cta: 
+#  url: https://mariawolters.net/
 ---
 
-I study the generalization capabilities of Arabic NLP models to text written in one of its low-resource dialects. 				
+Christopher Barrie specializes in the fields of political sociology and communication. He is also a computational methodologist, innovating on techniques in natural language processing and the repurposing of digital trace data for social science research.		

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Xue Li
+title: Xue Li		
 
 # Is this the primary user of the site?
 superuser: True 
 
 # Role/position
-role: Research Associate 
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ bio:
 interests:
 - Computational Logic
 - NLP
-- Faulty Theory Repair
+- Knowledge Representation
 
 weight: 240
 

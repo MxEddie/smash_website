@@ -7,7 +7,7 @@ subtitle: ""
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: 2
+  columns: 1
   background:
     # Name of image in `assets/media/`.
     image: logo_whole.png
@@ -21,7 +21,7 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
   spacing:
-      padding: ["5px", "0", "5px", "0"]
+      padding: ["5px", "0px", "5px", "0px"]
 
     
 cta:

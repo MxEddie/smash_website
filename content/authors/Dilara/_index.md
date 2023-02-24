@@ -6,7 +6,7 @@ title: Dilara Kekulluoglu
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Research Associate		
 
 # Organizations/Affiliations
 organizations:
@@ -15,10 +15,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+pronouns: she/her 
 
 interests:
+- Privacy on Social Media
+- Responsible AI
+- Human-Computer Interaction
+- Computational Social Science
 
-weight: 330 
+weight: 230 
 
 #
 #education:
@@ -44,9 +49,9 @@ social:
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=b6-c_A0AAAAJ 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dilarakekulluoglu/
@@ -70,9 +75,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Researchers 
+- Researchers 
 - All 
 ---
 
-I am third year PhD student at School of Informatics, University of Edinburgh in Scotland, UK. My research interests are privacy on social media, computational social science, human computer interaction, natural language processing. My current focus is on privacy on social media, especially unintended disclosures and user understanding of privacy controls.
+I am a research associate working on the Responsible AI domain with the Artificial Intelligence and its Applications Institute (AIAI). My current project focuses on increasing answerability of sociotechnical organizations that use AI systems to make decisions about people.		
 
