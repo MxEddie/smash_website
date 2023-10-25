@@ -7,7 +7,7 @@ name: Agostina
 superuser: True 
 
 # Role/position
-role: Phd Student
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -71,8 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Researchers 
-- All 
+- Hidden
 
 cta:
   url: https://ago3.github.io/

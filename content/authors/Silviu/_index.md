@@ -6,7 +6,7 @@ title: Silviu Oprea
 superuser: True 
 
 # Role/position
-role: Phd Student
+role: Recent graduate
 
 # Organizations/Affiliations
 organizations:
@@ -69,8 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Researchers 
-- All 
+- Alumni
 ---
 
 Formal and statistical semantics of natural language. Deep learning and time-series modelling. Representation learning. Linguistic theories, as well as computational models, of sarcasm.

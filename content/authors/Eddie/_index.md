@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-pronouns: he/him, they/them 
+pronouns: he/him
 
 
 interests:
