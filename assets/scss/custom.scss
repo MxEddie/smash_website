@@ -46,7 +46,44 @@ section#funding {
 .cta_group{
     align-items:center;
 }
-    
+
+.btn.btn-primary{
+    display: block; 
+    height: 50px; 
+    width: 180px; 
+    background: #011F41; 
+    color: #ffffff; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size:12pt; 
+    line-height: 28px; 
+    font-family: Arial; 
+    border-radius: 20px; 
+    text-decoration: none;
+}
+
+.btn.btn-outline-primary{
+    color: #011F41;
+    border-color: #011F41;
+}
+
+a:link{
+    color:#06518a
+}
+
+a, h3.article-title a:hover{
+    color:#06518a
+}
+
+.navbar .navbar-nav .nav-link.active{
+    color:#06518a !important
+}
+
+a:hover{
+    color:#06518a !important
+}
+
+
 section#welcome figure{
     max-width:20%;
     height:auto;
@@ -85,11 +122,9 @@ section#funding div.column {
 
 }
 
-#image {
-    z-index: 10;
-}
 
-#image .home-section{
+
+section#image .home-section.dark{
     padding: 0 0 0 0 ;
 }
 

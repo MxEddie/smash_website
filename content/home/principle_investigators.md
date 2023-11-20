@@ -26,8 +26,12 @@ design:
     padding: ["2em" , "0" , "2em" , "0" ]
 advanced:
   css_style: 
+
+cta:
+  url: "/people"
+  label: "Meet the Whole Team"
+
 ---
 
 <div style="display: flex; justify-content: center;">
 <a style="display: block; height: 50px; width: 200px; background: #011F41; color: #ffffff; text-align: center; font-weight: bold; font-size:12pt; line-height: 50px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="/people">Meet the Whole Team</a></div>
-

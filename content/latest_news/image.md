@@ -20,9 +20,9 @@ design:
   background:
     image: IMG_0474.jpg
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: contain 
+    image_size: cover 
     text_color_light: true
   spacing:
     padding: ["10%", "0", "27%", "0"]

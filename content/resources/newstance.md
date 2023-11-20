@@ -21,7 +21,7 @@ Website: https://abeeraldayel.github.io/
 Principle scientist at Qatar Computing Research Institute, HBKU university. Website: http://kareemdarwish.com/
 
 **Walid Magdy**
-Associate professor at the School of Informatics, the University of Edinburgh, and faculty fellow at the Alan Turing Institute. Website: http://homepages.inf.ed.ac.uk/wmagdy/ </spoiler>
+Associate professor at the School of Informatics, the University of Edinburgh, and faculty fellow at the Alan Turing Institute. Website: http://homepages.inf.ed.ac.uk/wmagdy/ {{</spoiler>}}
 
 
 

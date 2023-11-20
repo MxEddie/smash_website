@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: native
-font_size: M
+appearance:
+  theme_day: minimal
+  font: native
+  font_size: m
 
 # SEO
 
@@ -20,25 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: smash@mlist.is.ed.ac.uk
-address:
-  street: Informatics Forum 3.12
-  city: Edinburgh
-  postcode: EH8 9AB
-  country: Scotland
-  country_code: UK
-coordinates:
-  latitude: "55.94484706919222"
-  longitude: "-3.1873141883566665"
-contact_links:
-  - icon: youtube
-    icon_pack: fab
-    name: Youtube Channel 
-    link: 'https://www.youtube.com/channel/UCFvM-91PuJvPkiZb_tT-Rgg'
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter 
-    link: 'https://twitter.com/SMASH_Edin'
+
 
 # Site header
 

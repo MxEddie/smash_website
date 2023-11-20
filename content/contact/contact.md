@@ -12,6 +12,28 @@ weight: 10
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+  email: smash@mlist.is.ed.ac.uk
+  address:
+    street: Informatics Forum 3.12
+    city: Edinburgh
+    postcode: EH8 9AB
+    country: Scotland
+    country_code: UK
+  coordinates:
+    latitude: "55.9448"
+    longitude: "-3.1873"
+  contact_links:
+  - icon: youtube
+    icon_pack: fab
+    name: Youtube Channel 
+    link: 'https://www.youtube.com/channel/UCFvM-91PuJvPkiZb_tT-Rgg'
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter 
+    link: 'https://twitter.com/SMASH_Edin'
+
+  # Automatically link email and phone or display as text?
+  autolink: true
 
 design:
   columns: '1'
