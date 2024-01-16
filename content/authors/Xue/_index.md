@@ -62,8 +62,8 @@ social:
 #  icon_pack: fas
 #  link:
 
-#cta:
-#  url: https://www.linkedin.com/in/mohamed-bahgat-45616973/
+cta:
+  url: https://xueli-shirley.vercel.app/ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
