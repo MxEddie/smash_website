@@ -2,6 +2,8 @@
 # Display name
 title: Walid Magdy 
 
+authors: ["walid-magdy"]
+
 # Is this the primary user of the site?
 superuser: false 
 

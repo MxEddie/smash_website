@@ -11,11 +11,12 @@
 
 <section id="profile-page" class="pt-5">
   <div class="container">
-    {{/* Show the About widget if an account exists for this user. */}}
+    {{/* Show the About block if an account exists for this user. */}}
+    {{/* TODO: remove dependency on v1 blocks. Either migrate to v2 blocks(?) or directly implement layout here. */}}
     {{ if .File }}
-      {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
-      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ $widget := "blocks/v1/about.html" }}
+      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $params := dict "wcPage" $ "wcBlock" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
 
@@ -25,7 +26,7 @@
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
-        {{ range $query }}
+        {{ range first 10 $query }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
@@ -33,7 +34,6 @@
       </ul>
     </div>
     {{ end }}
-
   </div>
 </section>
 
