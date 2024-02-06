@@ -5,6 +5,8 @@ title: Amr Keleg
 # Is this the primary user of the site?
 superuser: false
 
+authors: ["amr-keleg"]
+
 # Role/position
 role: PhD Student
 

@@ -2,6 +2,9 @@
 # Display name
 title: Ibrahim AbuFarha
 
+authors: ["ibrahim-abufarha"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

@@ -2,6 +2,9 @@
 # Display name
 title: Mohamed Bahgat
 
+authors: ["mohamed-bahgat"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

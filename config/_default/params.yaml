@@ -93,8 +93,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: "Google"
-  api_key: "AIzaSyCvh_b9g6QNiqMZ8dhgAbuZhA_mX2cRHy4"
+  provider: 
+  api_key: 
   zoom: 15
 marketing:
   google_analytics: ''

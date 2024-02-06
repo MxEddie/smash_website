@@ -3,6 +3,9 @@
 title: Björn Ross
 name: Björn 
 
+authors: ["bjorn-ross"]
+
+
 # Is this the primary user of the site?
 superuser: false 
 

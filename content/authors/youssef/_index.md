@@ -3,6 +3,9 @@
 title: Youssef Al Hariri		
 pronouns: he/him
 
+authors: ["youssef-al-hariri"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

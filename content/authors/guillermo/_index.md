@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Guillermo Romero Moreno		
+title: Guillermo Romero Moreno	
+
+authors: ["guillermo-romero-moreno"]
+
 
 # Is this the primary user of the site?
 superuser: True 

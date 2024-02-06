@@ -2,6 +2,9 @@
 # Display name
 title: Alexander Robertson
 
+authors: ["alexander-robertson"]
+
+
 # Is this the primary user of the site?
 superuser: false
 

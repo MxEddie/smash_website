@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Sandrine Chausson		
+title: Sandrine Chausson	
+
+authors: ["sandrine-chausson"]
+
 
 # Is this the primary user of the site?
 superuser: false

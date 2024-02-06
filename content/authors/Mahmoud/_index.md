@@ -2,6 +2,9 @@
 # Display name
 title: Mahmoud Fawzi
 
+authors: ["mahmoud-fawzi"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

@@ -2,6 +2,9 @@
 # Display name
 title: Steve Wilson
 
+authors: ["steve-wilson", "steve-r-wilson"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

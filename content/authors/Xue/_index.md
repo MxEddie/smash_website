@@ -2,6 +2,9 @@
 # Display name
 title: Xue Li		
 
+authors: ["xue-li"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

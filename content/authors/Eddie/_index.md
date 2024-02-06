@@ -2,6 +2,9 @@
 # Display name
 title: Eddie Ungless
 
+authors: ["eddie-ungless"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

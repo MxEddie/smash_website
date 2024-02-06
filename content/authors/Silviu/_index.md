@@ -2,6 +2,9 @@
 # Display name
 title: Silviu Oprea
 
+authors: ["silviu-oprea"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

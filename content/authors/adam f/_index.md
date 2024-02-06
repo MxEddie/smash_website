@@ -2,6 +2,9 @@
 # Display name
 title: Adam Ferron		
 
+authors: ["adam-ferron"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

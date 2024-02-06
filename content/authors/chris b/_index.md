@@ -8,6 +8,9 @@ superuser: true
 # Role/position
 role: Lecturer in Computational Sociology		
 
+authors: ["christopher-barrie"]
+
+
 # Organizations/Affiliations
 organizations:
 - name: University of Ediburgh

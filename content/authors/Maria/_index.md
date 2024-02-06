@@ -2,6 +2,9 @@
 # Display name
 title: Maria Wolters
 
+authors: ["maria-wolters"]
+
+
 # Is this the primary user of the site?
 superuser: true  
 

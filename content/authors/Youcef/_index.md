@@ -3,6 +3,9 @@
 title: Youcef Benkhedda		
 pronouns: he/him
 
+authors: ["youcef-benkhedda"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

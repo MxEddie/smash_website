@@ -2,6 +2,9 @@
 # Display name
 title: Julie-Anne Meaney
 
+authors: ["julie-anne-meaney"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

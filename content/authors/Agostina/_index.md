@@ -3,6 +3,8 @@
 title: Agostina Calabrese
 name: Agostina 
 
+authors: ["agostina-calabrese"]
+
 # Is this the primary user of the site?
 superuser: True 
 

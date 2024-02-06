@@ -2,6 +2,9 @@
 # Display name
 title: Seraphina Goldfarb-Tarrant		
 
+authors: ["seraphina-goldfarb-tarrant"]
+
+
 # Is this the primary user of the site?
 superuser: false
 

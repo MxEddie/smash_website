@@ -2,6 +2,9 @@
 # Display name
 title: Yi (Wendy) Zheng				
 
+authors: ["wendy-zheng"]
+
+
 # Is this the primary user of the site?
 superuser: false
 

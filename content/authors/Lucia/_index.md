@@ -2,6 +2,9 @@
 # Display name
 title: Lushi Chen
 
+authors: ["lushi-chen"]
+
+
 # Is this the primary user of the site?
 superuser: True 
 

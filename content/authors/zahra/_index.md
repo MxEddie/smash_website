@@ -2,6 +2,8 @@
 # Display name
 title: Zahra Bokaee		
 
+authors: ["zahra-bokaee"]
+
 # Is this the primary user of the site?
 superuser: false
 
