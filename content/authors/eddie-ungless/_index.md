@@ -84,3 +84,5 @@ cta:
 ---
 
 I am a PhD student entering my second year of study. My focus is on how to detect predictive biases in NLP tools; how the public are impacted by and respond to these biases; and what we as a research community can do about them! 
+
+{{< cta cta_text="Custom CTA" cta_link="https://mxeddie.github.io/about/" >}}

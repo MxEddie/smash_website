@@ -79,8 +79,8 @@ user_groups:
 - Directors
 - All 
 
-cta:
-  url: https://sweb.inf.ed.ac.uk/bross3/
 ---
 
 I am a Lecturer (Assistant Professor) in Computational Social Science at the University of Edinburgh School of Informatics, in the Institute for Language, Cognition and Computation. 
+
+{{< cta cta_text="Find Out More" cta_link="https://sweb.inf.ed.ac.uk/bross3/" >}}

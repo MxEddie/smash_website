@@ -82,3 +82,5 @@ user_groups:
 ---
 
 I study the generalization capabilities of Arabic NLP models to text written in one of its low-resource dialects. 				
+
+{{< cta cta_text="Find Out More" cta_link="https://amr-keleg.github.io/" >}}

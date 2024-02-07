@@ -65,10 +65,6 @@ social:
 #   link: files/cv.pdf
 
 
-
-cta:  
-  url: https://dilarakkl.github.io/
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -84,3 +80,4 @@ user_groups:
 
 I am a research associate working on the Responsible AI domain with the Artificial Intelligence and its Applications Institute (AIAI). My current project focuses on increasing answerability of sociotechnical organizations that use AI systems to make decisions about people.		
 
+{{< cta cta_text="Find Out More" cta_link="https://dilarakkl.github.io/" >}}

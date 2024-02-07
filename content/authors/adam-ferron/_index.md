@@ -79,8 +79,6 @@ user_groups:
 - Doctoral Researchers 
 - All 
 
-cta:
-  url: https://www.ed.ac.uk/profile/adam-ferron
 ---
 
 Adam Ferron is a Tobagonian born, Eurasian-British scholar at the Department of Islamic and Middle Eastern Studies. Their disciplinary background is political sociology. They came to Edinburgh to further advance their Arabic through its MSc Arabic language programme, before commencing their PhD in 2020 with 2+3 funding from the Economic and Social Research Council. Prior to coming to Edinburgh, they were Scholar-in-Residence at the Council for British Research in the Levant based in Amman, Jordan. They earned their MA in Near and Middle Eastern Studies from the School of Oriental and African Studies, and have a professional background in research and policy work in both local government in London, and the UK Foreign and Commonwealth Office.
@@ -91,3 +89,5 @@ Member of the British Association for Islamic Studies (BRAIS)
 Member of the British Society for Middle Eastern Studies (BRISMES)
 Member of Social Media Analysis and Support for Humanity (SMASH)
 Member of Social Network Analysis in Scotland Group (SNAS)
+
+{{< cta cta_text="Find Out More" cta_link="https://www.ed.ac.uk/profile/adam-ferron" >}}
