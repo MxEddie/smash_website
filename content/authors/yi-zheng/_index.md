@@ -14,7 +14,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "http://www.inf.ed.ac.uk/people/students/Sandrine_Chausson.html"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

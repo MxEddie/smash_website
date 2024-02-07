@@ -72,8 +72,8 @@ user_groups:
 - Doctoral Researchers 
 - All 
 
-cta:
-  url: https://iabufarha.github.io/
 ---
 
 I am a PhD student at the School of Informatics, the University of Edinburgh. I am working under the supervision of Walid Magdy and Bonnie Webber. 
+
+{{< cta cta_text="Find Out More" cta_link="https://iabufarha.github.io/" >}}

@@ -79,10 +79,8 @@ user_groups:
 - Doctoral Researchers 
 - All 
 
-cta:
-  url: https://mxeddie.github.io/about/
 ---
 
 I am a PhD student entering my second year of study. My focus is on how to detect predictive biases in NLP tools; how the public are impacted by and respond to these biases; and what we as a research community can do about them! 
 
-{{< cta cta_text="Custom CTA" cta_link="https://mxeddie.github.io/about/" >}}
+{{< cta cta_text="Find Out More" cta_link="https://mxeddie.github.io/about/" >}}

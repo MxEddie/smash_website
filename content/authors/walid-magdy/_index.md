@@ -76,11 +76,10 @@ user_groups:
 - Directors
 - All 
 
-cta:
-  url: https://homepages.inf.ed.ac.uk/wmagdy/
 
 ---
 
 I am a faculty member at the Institute for Language, Cognition and Computation (ILCC), part of the School of Informatics, the Univeristy of Edinburgh. I am also a faculty fellow at The Alan Turing Institute. My main expertise is in social computing, information retrieval (IR), and data mining. 
 
 
+{{< cta cta_text="Find Out More" cta_link="https://homepages.inf.ed.ac.uk/wmagdy/" >}}

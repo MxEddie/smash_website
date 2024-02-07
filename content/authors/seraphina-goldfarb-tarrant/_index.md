@@ -67,8 +67,6 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/amr-keleg/
 
-cta:
-  url: https://seraphinatarrant.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -83,3 +81,5 @@ user_groups:
 ---
 
 I am a PhD candidate in Informatics, working on Fairness in Multilingual NLP under the supervision of Adam Lopez and Björn Ross.		
+
+{{< cta cta_text="Find Out More" cta_link="https://seraphinatarrant.github.io/" >}}

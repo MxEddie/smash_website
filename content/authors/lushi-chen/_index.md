@@ -60,8 +60,6 @@ social:
 #  icon_pack: fas
 #  link: 
 
-cta:
-  url: https://lushichen.com/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,3 +74,5 @@ user_groups:
 ---
 
 I’m a PhD student at the Informatics, University of Edinburgh. My research concentrates on using digital data to track the affective, cognitive, and behavioral changes of users, identifying the associations between digital signals and symptoms of mental disorders.
+
+{{< cta cta_text="Find Out More" cta_link="https://lushichen.com/" >}}

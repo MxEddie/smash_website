@@ -65,8 +65,6 @@ social:
 #  icon_pack: fas
 #  link:
 
-cta:
-  url: https://xueli-shirley.vercel.app/ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -82,3 +80,5 @@ user_groups:
 ---
 
 I am interested in automating faulty theory's detection and repair, which has wide applications, e.g., game theory modelling, root-cause analysis. As a postdoc, I work with Björn Ross and Vaishak Belle on misinformation detection.		
+
+{{< cta cta_text="Find Out More" cta_link="https://xueli-shirley.vercel.app/ " >}}

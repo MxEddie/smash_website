@@ -76,8 +76,8 @@ user_groups:
 - Researchers
 - All 
 
-cta: 
-  url: https://mariawolters.net/
 ---
 
 Digital inclusion, digital equality, and cats. Runs CatalyticsLab		
+
+{{< cta cta_text="Find Out More" cta_link="https://mariawolters.net/" >}}
