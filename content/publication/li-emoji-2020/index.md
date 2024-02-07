@@ -2,7 +2,7 @@
 title: "Emoji and Self-Identity in Twitter Bios"
 date: 2020-11-01
 publishDate: 2022-01-25T11:14:46.232497Z
-authors: ["Jinhang Li", "Giorgos Longinos", "Steven Wilson", "Walid Magdy"]
+authors: ["Jinhang Li", "Giorgos Longinos", "Steven Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

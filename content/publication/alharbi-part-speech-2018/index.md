@@ -2,7 +2,7 @@
 title: "Part-of-Speech Tagging for Arabic Gulf Dialect Using Bi-LSTM"
 date: 2018-05-01
 publishDate: 2022-01-25T11:14:46.261742Z
-authors: ["Randah Alharbi", "Walid Magdy", "Kareem Darwish", "Ahmed AbdelAli", "Hamdy Mubarak"]
+authors: ["Randah Alharbi", "walid-magdy", "Kareem Darwish", "Ahmed AbdelAli", "Hamdy Mubarak"]
 publication_types: ["1"]
 abstract: ""
 featured: false

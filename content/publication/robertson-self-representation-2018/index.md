@@ -2,7 +2,7 @@
 title: "Self-Representation on Twitter Using Emoji Skin Color Modifiers"
 date: 2018-06-01
 publishDate: 2022-01-25T11:14:46.259273Z
-authors: ["Alexander Robertson", "Walid Magdy", "Sharon Goldwater"]
+authors: ["Alexander Robertson", "walid-magdy", "Sharon Goldwater"]
 publication_types: ["1"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Arabic Tweet-Act: Speech Act Recognition for Arabic Asynchronous Conversations"
 date: 2019-08-01
 publishDate: 2022-01-25T11:14:46.252015Z
-authors: ["Bushra Algotiml", "AbdelRahim A. Elmadany", "Walid Magdy"]
+authors: ["Bushra Algotiml", "AbdelRahim A. Elmadany", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

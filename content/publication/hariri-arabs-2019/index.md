@@ -2,7 +2,7 @@
 title: "Arabs and Atheism: Religious Discussions in the Arab Twittersphere"
 date: 2019-11-01
 publishDate: 2022-01-25T11:14:46.250610Z
-authors: ["Youssef Al Hariri", "Walid Magdy", "Maria Wolters"]
+authors: ["Youssef Al Hariri", "walid-magdy", "Maria Wolters"]
 publication_types: ["1"]
 abstract: ""
 featured: false

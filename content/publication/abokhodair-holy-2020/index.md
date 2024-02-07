@@ -2,7 +2,7 @@
 title: "Holy Tweets: Exploring the Sharing of the Quran on Twitter"
 date: 2020-10-01
 publishDate: 2022-01-25T11:14:46.235980Z
-authors: ["Norah Abokhodair", "Abdelrahim Elmadany", "Walid Magdy"]
+authors: ["Norah Abokhodair", "Abdelrahim Elmadany", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

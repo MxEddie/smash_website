@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ibrahim Abu Farha
-- Walid Magdy
+- walid-magdy
 tags: []
 categories: []
 date: '2023-02-01'

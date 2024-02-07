@@ -2,7 +2,7 @@
 title: "ClassStrength v2: An Adaptive Multilingual Tool for Tweet Classification"
 date: 2018-08-01
 publishDate: 2022-01-25T11:14:46.257036Z
-authors: ["Diana Cremarenco", "Walid Magdy"]
+authors: ["Diana Cremarenco", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

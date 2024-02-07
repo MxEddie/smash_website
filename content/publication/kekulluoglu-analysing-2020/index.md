@@ -2,7 +2,7 @@
 title: "Analysing Privacy Leakage of Life Events on Twitter"
 date: 2020-06-01
 publishDate: 2022-01-25T11:14:46.239545Z
-authors: ["Dilara Kekulluoglu", "Walid Magdy", "Kami Vaniea"]
+authors: ["Dilara Kekulluoglu", "walid-magdy", "Kami Vaniea"]
 publication_types: ["1"]
 abstract: ""
 featured: false

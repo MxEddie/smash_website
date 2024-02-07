@@ -2,7 +2,7 @@
 title: "Towards Using Word Embedding Vector Space for Better Cohort Analysis"
 date: 2020-05-01
 publishDate: 2022-01-25T11:14:46.245431Z
-authors: ["Mohamed Bahgat", "Steve Wilson", "Walid Magdy"]
+authors: ["Mohamed Bahgat", "Steve Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic"
 date: 2021-04-01
 publishDate: 2022-01-25T11:14:46.229774Z
-authors: ["Ibrahim Abu Farha", "Wajdi Zaghouani", "Walid Magdy"]
+authors: ["Ibrahim Abu Farha", "Wajdi Zaghouani", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic"
 date: 2021-05-01
 publishDate: 2022-06-20T11:39:54.968016Z
-authors: ["Ibrahim Abu Farha", "Silviu Oprea", "Steve Wilson", "Walid Magdy"]
+authors: ["Ibrahim Abu Farha", "Silviu Oprea", "Steve Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

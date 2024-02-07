@@ -2,7 +2,7 @@
 title: "SemEval 2021 Task 7: HaHackathon, Detecting and Rating Humor and Offense"
 date: 2021-08-01
 publishDate: 2022-01-25T11:14:46.228773Z
-authors: ["J. A. Meaney", "Steve Wilson", "Luis Chiruzzo", "Adam Lopez", "Walid Magdy"]
+authors: ["J. A. Meaney", "Steve Wilson", "Luis Chiruzzo", "Adam Lopez", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

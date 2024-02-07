@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marcin Waniek
-- Walid Magdy
+- walid-magdy
 - Talal Rahwan
 tags: []
 categories: []

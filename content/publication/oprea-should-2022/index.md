@@ -2,7 +2,7 @@
 title: "Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation"
 date: 2022-05-01
 publishDate: 2022-06-20T11:39:54.970041Z
-authors: ["Silviu Vlad Oprea", "Steven Wilson", "Walid Magdy"]
+authors: ["Silviu Vlad Oprea", "Steven Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

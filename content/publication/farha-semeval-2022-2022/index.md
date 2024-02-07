@@ -9,7 +9,7 @@ authors:
 - Ibrahim Abu Farha
 - Silviu Oprea
 - Steve Wilson
-- Walid Magdy
+- walid-magdy
 tags: []
 categories: []
 date: '2022-07-01'

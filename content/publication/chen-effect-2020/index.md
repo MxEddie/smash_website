@@ -2,7 +2,7 @@
 title: "The Effect of User Psychology on the Content of Social Media Posts: Originality and Transitions Matter"
 date: 2020-04-01
 publishDate: 2022-01-25T11:14:46.241838Z
-authors: ["Lucia Lushi Chen", "Walid Magdy", "Maria Wolters"]
+authors: ["Lucia Lushi Chen", "walid-magdy", "Maria Wolters"]
 publication_types: ["2"]
 abstract: ""
 featured: false

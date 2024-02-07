@@ -2,7 +2,7 @@
 title: "Mazajak: An Online Arabic Sentiment Analyser"
 date: 2019-05-01
 publishDate: 2022-01-25T11:14:46.252786Z
-authors: ["Ibrahim Abu Farha", "Walid Magdy"]
+authors: ["Ibrahim Abu Farha", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

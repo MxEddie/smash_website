@@ -2,7 +2,7 @@
 title: "Smash at SemEval-2020 Task 7: Optimizing the Hyperparameters of ERNIE 2.0 for Humor Ranking and Rating"
 date: 2020-12-01
 publishDate: 2022-01-25T11:14:46.236533Z
-authors: ["Julie-Anne Meaney", "Steve Wilson", "Walid Magdy"]
+authors: ["Julie-Anne Meaney", "Steve Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

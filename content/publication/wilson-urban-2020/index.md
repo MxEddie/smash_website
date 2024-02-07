@@ -2,7 +2,7 @@
 title: "Urban Dictionary Embeddings for Slang NLP Applications"
 date: 2020-05-01
 publishDate: 2022-01-25T11:14:46.245959Z
-authors: ["Steve Wilson", "Walid Magdy", "Barbara McGillivray", "Kiran Garimella", "Gareth Tyson"]
+authors: ["Steve Wilson", "walid-magdy", "Barbara McGillivray", "Kiran Garimella", "Gareth Tyson"]
 publication_types: ["1"]
 abstract: ""
 featured: false

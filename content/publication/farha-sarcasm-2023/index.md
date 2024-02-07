@@ -9,7 +9,7 @@ authors:
 - Ibrahim Abu Farha
 - Steven Wilson
 - Silviu Vlad Oprea
-- Walid Magdy
+- walid-magdy
 tags: []
 categories: []
 date: '2023-02-01'

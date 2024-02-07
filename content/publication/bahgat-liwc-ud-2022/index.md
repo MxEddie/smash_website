@@ -2,7 +2,7 @@
 title: "LIWC-UD: Classifying Online Slang Terms into LIWC Categories"
 date: 2022-03-01
 publishDate: 2022-06-20T11:39:54.969375Z
-authors: ["Mohamed Bahgat", "Steve Wilson", "Walid Magdy"]
+authors: ["Mohamed Bahgat", "Steve Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

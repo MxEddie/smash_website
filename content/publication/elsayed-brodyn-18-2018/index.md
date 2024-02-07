@@ -2,7 +2,7 @@
 title: "BroDyn’18: Workshop on analysis of broad dynamic topics over social media"
 date: 2018-03-01
 publishDate: 2022-01-25T11:14:46.258240Z
-authors: ["Tamer Elsayed", "Walid Magdy", "Mucahid Kutlu", "Maram Hasanain", "Reem Suwaileh"]
+authors: ["Tamer Elsayed", "walid-magdy", "Mucahid Kutlu", "Maram Hasanain", "Reem Suwaileh"]
 publication_types: ["1"]
 abstract: ""
 featured: false

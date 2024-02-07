@@ -2,7 +2,7 @@
 title: "From Arabic Sentiment Analysis to Sarcasm Detection: The ArSarcasm Dataset"
 date: 2020-05-01
 publishDate: 2022-01-25T11:14:46.242919Z
-authors: ["Ibrahim Abu Farha", "Walid Magdy"]
+authors: ["Ibrahim Abu Farha", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

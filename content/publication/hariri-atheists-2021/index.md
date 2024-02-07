@@ -2,7 +2,7 @@
 title: "Atheists versus Theists: Religious Polarisation in Arab Online Communities"
 date: 2021-10-01
 publishDate: 2022-01-25T11:14:46.226404Z
-authors: ["Youssef Al Hariri", "Walid Magdy", "Maria K. Wolters"]
+authors: ["Youssef Al Hariri", "walid-magdy", "Maria K. Wolters"]
 publication_types: ["1"]
 abstract: ""
 featured: false

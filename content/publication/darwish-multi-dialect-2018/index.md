@@ -2,7 +2,7 @@
 title: "Multi-Dialect Arabic POS Tagging: A CRF Approach"
 date: 2018-05-01
 publishDate: 2022-01-25T11:14:46.261156Z
-authors: ["Kareem Darwish", "Hamdy Mubarak", "Mohamed Eldesouki", "Ahmed AbdelAli", "Younes Samih", "Randah Alharbi", "Mohammed Attia", "Walid Magdy", "Laura Kallmeyer"]
+authors: ["Kareem Darwish", "Hamdy Mubarak", "Mohamed Eldesouki", "Ahmed AbdelAli", "Younes Samih", "Randah Alharbi", "Mohammed Attia", "walid-magdy", "Laura Kallmeyer"]
 publication_types: ["1"]
 abstract: ""
 featured: false

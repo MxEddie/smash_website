@@ -2,7 +2,7 @@
 title: "Fake it till you make it: Fishing for Catfishes"
 date: 2017-07-01
 publishDate: 2022-01-25T11:14:46.264977Z
-authors: ["Walid Magdy", "Yehia Elkhatib", "Gareth Tyson", "Sagar Joglekar", "Nishanth Sastry"]
+authors: ["walid-magdy", "Yehia Elkhatib", "Gareth Tyson", "Sagar Joglekar", "Nishanth Sastry"]
 publication_types: ["1"]
 abstract: ""
 featured: false

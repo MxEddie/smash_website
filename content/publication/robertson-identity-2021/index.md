@@ -2,7 +2,7 @@
 title: "Identity Signals in Emoji do not Influence Perception of Factual Truth on Twitter"
 date: 2021-06-01
 publishDate: 2022-01-25T11:14:46.227413Z
-authors: ["Alexander Robertson", "Walid Magdy", "Sharon Goldwater"]
+authors: ["Alexander Robertson", "walid-magdy", "Sharon Goldwater"]
 publication_types: ["1"]
 abstract: ""
 featured: false

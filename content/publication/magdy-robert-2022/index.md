@@ -2,7 +2,7 @@
 title: "Robert Elliott Smith: Rage Inside the Machine—the prejudice of algorithms, and how to stop the internet making bigots of us all"
 date: 2022-03-01
 publishDate: 2022-06-20T11:39:54.971512Z
-authors: ["Walid Magdy"]
+authors: ["walid-magdy"]
 publication_types: ["2"]
 abstract: ""
 featured: false

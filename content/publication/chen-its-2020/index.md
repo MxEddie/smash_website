@@ -2,7 +2,7 @@
 title: "It's Not Just About Sad Songs: The Effect of Depression on Posting Lyrics and Quotes"
 date: 2020-10-01
 publishDate: 2022-01-25T11:14:46.235258Z
-authors: ["Lucia Lushi Chen", "Walid Magdy", "Heather Whalley", "Maria K. Wolters"]
+authors: ["Lucia Lushi Chen", "walid-magdy", "Heather Whalley", "Maria K. Wolters"]
 publication_types: ["1"]
 abstract: ""
 featured: false

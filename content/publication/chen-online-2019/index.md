@@ -2,7 +2,7 @@
 title: "Online Community Engagement when Talking About Infidelity: The Case of Reddit"
 date: 2019-07-01
 publishDate: 2022-01-25T11:14:46.255363Z
-authors: ["Lushi Chen", "Walid Magdy", "Maria Wolters"]
+authors: ["Lushi Chen", "walid-magdy", "Maria Wolters"]
 publication_types: ["1"]
 abstract: ""
 featured: false

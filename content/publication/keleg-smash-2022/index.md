@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Amr Keleg
-- Walid Magdy
+- walid-magdy
 tags: []
 categories: []
 date: '2022-06-01'

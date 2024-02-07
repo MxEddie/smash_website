@@ -8,7 +8,7 @@ authors:
 - Dilara Kekulluoglu
 - Kami Vaniea
 - Maria K. Wolters
-- Walid Magdy
+- walid-magdy
 tags: []
 categories: []
 date: '2022-11-01'

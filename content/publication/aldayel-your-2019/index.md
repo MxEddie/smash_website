@@ -2,7 +2,7 @@
 title: "Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media"
 date: 2019-11-01
 publishDate: 2022-01-25T11:14:46.247129Z
-authors: ["Abeer Aldayel", "Walid Magdy"]
+authors: ["Abeer Aldayel", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

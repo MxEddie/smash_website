@@ -2,7 +2,7 @@
 title: "ClassStrength: A Multilingual Tool for Tweets Classification"
 date: 2017-07-01
 publishDate: 2022-01-25T11:14:46.264189Z
-authors: ["Walid Magdy", "Mohamed Eldesoukyy"]
+authors: ["walid-magdy", "Mohamed Eldesoukyy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

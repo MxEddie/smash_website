@@ -2,7 +2,7 @@
 # Display name
 title: Yi (Wendy) Zheng				
 
-authors: ["wendy-zheng"]
+authors: ["yi-zheng"]
 
 
 # Is this the primary user of the site?

@@ -2,7 +2,7 @@
 title: "Chandler: An Explainable Sarcastic Response Generator"
 date: 2021-11-01
 publishDate: 2022-01-25T11:14:46.223431Z
-authors: ["Silviu Vlad Oprea", "Steve Wilson", "Walid Magdy"]
+authors: ["Silviu Vlad Oprea", "Steve Wilson", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

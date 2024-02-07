@@ -2,7 +2,7 @@
 title: "A Practical Guide for the Effective Evaluation of Twitter User Geolocation"
 date: 2019-12-01
 publishDate: 2022-01-25T11:14:46.247604Z
-authors: ["Ahmed Mourad", "Falk Scholer", "Walid Magdy", "Mark Sanderson"]
+authors: ["Ahmed Mourad", "Falk Scholer", "walid-magdy", "Mark Sanderson"]
 publication_types: ["2"]
 abstract: ""
 featured: false

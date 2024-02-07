@@ -2,7 +2,7 @@
 title: "Word-Based Correction for Retrieval of Arabic OCR Degraded Documents"
 date: 2006-01-01
 publishDate: 2022-01-25T11:14:46.266626Z
-authors: ["Walid Magdy", "Kareem Darwish"]
+authors: ["walid-magdy", "Kareem Darwish"]
 publication_types: ["2"]
 abstract: ""
 featured: false

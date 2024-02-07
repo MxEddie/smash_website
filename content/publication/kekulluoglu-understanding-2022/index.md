@@ -2,7 +2,7 @@
 title: "Understanding Privacy Switching Behaviour on Twitter"
 date: 2022-04-01
 publishDate: 2022-06-20T11:39:54.970756Z
-authors: ["Dilara Kekulluoglu", "Kami Vaniea", "Walid Magdy"]
+authors: ["Dilara Kekulluoglu", "Kami Vaniea", "walid-magdy"]
 publication_types: ["1"]
 abstract: ""
 featured: false

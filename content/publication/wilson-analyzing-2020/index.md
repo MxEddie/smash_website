@@ -2,7 +2,7 @@
 title: "Analyzing Temporal Relationships between Trending Terms on Twitter and Urban Dictionary Activity"
 date: 2020-07-01
 publishDate: 2022-01-25T11:14:46.244697Z
-authors: ["Steve Wilson", "Walid Magdy", "Barbara McGillivray", "Gareth Tyson"]
+authors: ["Steve Wilson", "walid-magdy", "Barbara McGillivray", "Gareth Tyson"]
 publication_types: ["1"]
 abstract: ""
 featured: false

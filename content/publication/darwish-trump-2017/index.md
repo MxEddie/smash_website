@@ -2,7 +2,7 @@
 title: "Trump vs. Hillary: What went Viral during the 2016 US Presidential Election"
 date: 2017-09-01
 publishDate: 2022-01-25T11:14:46.262824Z
-authors: ["Kareem Darwish", "Walid Magdy", "Tahar Zanouda"]
+authors: ["Kareem Darwish", "walid-magdy", "Tahar Zanouda"]
 publication_types: ["1"]
 abstract: ""
 featured: false
